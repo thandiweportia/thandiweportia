@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thandiwe Masuku
 - 👀 I’m interested in cloud development, backend and frontend developmemnt using Object Oriented Programming languages.
-- 🌱 I’m currently learning cloud with AWS and Azure
+- 🌱 I’m currently enhancing my skills in Java annd React.js
 - 💞️ I’m looking to collaborate on varient projects related to implementation of software engineering.
 - 📫 You can reach me at thandiwemasuku49@gmail.com 
 
