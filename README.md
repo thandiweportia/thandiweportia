@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thandiwe Masuku
-- 👀 I’m interested in software development, full stack and application using Object Oriented Programming languages.
+- 👀 I’m interested in software development, frontEnd, full stack and application using Object Oriented Programming languages.
 - 🌱 I’m currently enhancing my skills in Java annd React.js
 - 💞️ I’m looking to collaborate on varient projects related to implementation of software engineering.
 - 📫 You can reach me at thandiwemasuku49@gmail.com 
